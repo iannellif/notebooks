@@ -1,2 +1,2 @@
 -matplolib basics
--seaborn basic
+-seaborn basics
